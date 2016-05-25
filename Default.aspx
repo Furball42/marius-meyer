@@ -1,0 +1,230 @@
+﻿<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Marius Meyer</title>
+		<meta charset="utf-8" />
+		<link rel='shortcut icon' type='image/x-icon' href='./favicon.ico' />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+	</head>
+	<body>
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome</a></li>
+							<li><a href="#one">Major Projects</a></li>
+                            <li><a href="#two">Arcade</a></li>
+							<li><a href="#three">Skills</a></li>
+							<li><a href="#four">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>Marius Meyer</h1>
+							<p><span style="color:#62932C">Developer.</span> Designer.</p>
+<!-- 							<ul class="actions">
+								<li><a href="#one" class="button scrolly">Learn more</a></li>
+							</ul> -->
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#" class="image"><img src="images/pie.png" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Osprey</h2>
+									<p>Web-based Business Process Flow Management Solution targeted at academia.</p>
+									<ul class="actions">
+										<li><a href="http://ethics.perspectives-in-education.com/Login.aspx" target="_blank" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/ody_pos.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Odyssey Mobile POS</h2>
+									<p>A tablet-based Point of Sale that links up with Odyssey Online Back Office system.</p>
+									<ul class="actions">
+										<li><a href="http://www.c-pos.co.za/" target="_blank" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/ody_crm.png" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Odyssey CRM</h2>
+									<p>A full Customer Relationship Manager with included invoice and quote system. </p>
+									<ul class="actions">
+										<li><a href="http://odysseycrm.co.za/" target="_blank" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/fody.png" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Odyssey POS Add-on products</h2>
+									<p>These add-ons work hand-in-hand with Odyssey Mobile POS and includes Waiter Station and Bump-bar applications.</p>
+									<ul class="actions">
+										<li><a href="http://www.c-pos.co.za/" target="_blank" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+                    <section id="two" class="wrapper style3 fade-up">
+                        asld;jfkasjdf;lkas
+                    </section>
+
+				<!-- Two -->
+					<section id="three" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>Primary Skill Set</h2>
+							<p>The following can be considered my primary skill set, although not limited to.</p>
+							<div class="features">
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>C#</h3>
+									<p>Extensive usage of C# for web development and back-end development. Aslo preferred language to use in Unity.</p>
+								</section>
+								<section>
+									<span class="icon major fa-html5"></span>
+									<h3>HTML5</h3>
+									<p>Full range of features of HTML5 as well as CSS3.</p>
+								</section>
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>JQuery / Javascript</h3>
+									<p>Use JQuery to facilitate sleek client-side interfaces as well as database communication.</p>
+								</section>
+								<section>
+									<span class="icon major fa-database"></span>
+									<h3>SQL</h3>
+									<p>Extensive usage of MSSQL and MySQL and proper exhaustive database design.</p>
+								</section>
+								<section>
+									<span class="icon major fa-gamepad"></span>
+									<h3>Unity</h3>
+									<p>Dabbled in various Unity projects.</p>
+								</section>
+								<section>
+									<span class="icon major fa-mobile"></span>
+									<h3>Windev Mobile</h3>
+									<p>Full usage of WDM to create and maintain mobile and tablet based applications.</p>
+								</section>
+							</div>
+							<!-- <ul class="actions">
+								<li><a href="#" class="button">Learn more</a></li>
+							</ul> -->
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section id="four" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>Get in touch with me</h2>
+							<p>Use the form below to get in contact with me for any queries or questions. Alternatively visit my me at LinkedIn.</p>
+							<div class="split style1">
+								<section>
+									<form id="contactForm" method="post">
+										<div class="field half first">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" required/>
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" required/>
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="5" required></textarea>
+										</div>
+                                        <div>
+                                            <div class="g-recaptcha" data-sitekey="6Lex8hcTAAAAAAcvGXuMo2q8v1k2DTEpn7c0PA3y"></div>
+                                        </div>
+										<ul class="actions">
+											<li><input type="submit" value="Submit" class="button submit"></li>
+                                            <%--<li><a href="" class="button submit">Send Message</a></li>--%>
+										</ul>
+									</form>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Location</h3>
+											<span>Bloemfontein,<br />
+											South Africa</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="#">mariusmeyer42@gmail.com</a>
+										</li>
+<!-- 										<li>
+											<h3>Phone</h3>
+											<span>+27 82 411 3954</span>
+										</li> -->
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												<!-- <li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li> -->
+												<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+												<!-- <li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li> -->
+												<li><a href="https://za.linkedin.com/in/marius-meyer-9670b18" target="_blank" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Marius Meyer. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+            <script src="assets/js/app.js"></script>
+	</body>
+</html>
